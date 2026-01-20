@@ -1,0 +1,40 @@
+{
+  "id": "root",
+  "type": "folder",
+  "title": "Root",
+  "children": [
+    {
+      "id": "1768742536754",
+      "type": "folder",
+      "title": "Test1",
+      "children": [
+        {
+          "id": "1768742558918uwhdadole",
+          "type": "video",
+          "title": "#1【超月夜系】I wanna  see the moon(Difficultモード版) アイワナ実況play",
+          "url": "https://www.youtube.com/watch?v=IAvF0-eMFqw"
+        },
+        {
+          "id": "1768742558918oraxrpuxk",
+          "type": "video",
+          "title": "#2【超月夜系】I wanna  see the moon(Difficultモード版) アイワナ実況play",
+          "url": "https://www.youtube.com/watch?v=09woslk5jw8"
+        },
+        {
+          "id": "1768742558918wldu2u9z7",
+          "type": "video",
+          "title": "#3【超月夜系】I wanna  see the moon(Difficultモード版) アイワナ実況play",
+          "url": "https://www.youtube.com/watch?v=SS8fleEbBNA"
+        },
+        {
+          "id": "1768742558918ec6xdel2t",
+          "type": "video",
+          "title": "#4【超月夜系】I wanna  see the moon(Difficultモード版) アイワナ実況play",
+          "url": "https://www.youtube.com/watch?v=5Dn_zKgcOUg"
+        }
+      ],
+      "isOpen": true
+    }
+  ],
+  "isOpen": true
+}
